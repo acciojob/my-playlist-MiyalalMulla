@@ -1,26 +1,33 @@
-/*  your css code here. If applicable */
-body{
-	background-color: rgb(204, 204, 204)
+body {
+  background-color: rgb(204, 204, 204);
 }
-h1,h2{
-	text-align:center;
+
+h1, h2 {
+  text-align: center;
 }
-.list-song{
-	background-color:white;
-	padding:20px;
-	height:90px;
-	width:500px;
-	display:grid;
-	padding-left:50px;
-	border:2px solid;
-	border-radius: 10px;
+
+.list-song {
+  background-color: white;
+  padding: 20px;
+  height: 90px;
+  width: 500px;
+  display: grid;
+  padding-left: 50px;
+  border: 2px solid;
+  border-radius: 10px;
 }
-video, audio{
-	background-color: rgb(255, 255, 255); 
-	padding; 
-	border-radius;
+
+a {
+  text-decoration: none;
 }
-li{
-	font:bold;
-	list-style-type:none;
+
+video, audio {
+  background-color: rgb(255, 255, 255); 
+  padding: 10px; 
+  border-radius: 10px;
+}
+
+li {
+  font-weight: bold;
+  list-style-type: none;
 }
